@@ -15,9 +15,6 @@ This Flight Management System (FMS) is a Java-based application developed using 
 - **Spring Data JPA**: Simplifies database access through the Java Persistence API (JPA) by providing a higher-level abstraction over JDBC.
 - **Spring Security**: Handles authentication, authorization, and other security concerns in the application.
 - **Hibernate**: An ORM (Object-Relational Mapping) framework for mapping Java objects to database tables.
-- **Swagger / Spring REST Docs**: For generating API documentation to facilitate API usage and integration.
-- **MySQL / PostgreSQL / H2**: Depending on the preference and requirements, a suitable relational database management system is used.
-- **JUnit / Mockito**: For writing unit tests and mocking dependencies to ensure robustness and reliability of the application.
 
 ## Getting Started
 
